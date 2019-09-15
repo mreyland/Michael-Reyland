@@ -24,7 +24,7 @@ During my studies in this unit I would expect to get a brief introduction to a r
   
 [General Manager - Renewable Energy](https://www.seek.com.au/job/39781196?searchrequesttoken=8af937e9-b5e6-4e38-bbce-a7d69ecba957&type=standard)  
   
-![Role Snapshot](C:\Users\michael.reyland\Desktop\Ideal_Job.PNG)
+![GM Role Snapshot](https://user-images.githubusercontent.com/55190472/64921204-da894f00-d7f2-11e9-9bcc-eadb4d471e1e.png)
   
   
   
