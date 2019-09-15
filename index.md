@@ -1,20 +1,8 @@
 ## Welcome to my profile
-
-- Name: Michael Reyland
-- Student ID: s3293934
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+- Name: Michael Reyland  
+- Student ID: s3293934  
+- email: s3293934@student.rmit.edu.au  
 
 
 You can use the [editor on GitHub](https://github.com/mreyland/Michael-Reyland/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
