@@ -28,11 +28,11 @@ During my studies in this unit I would expect to get a brief introduction to a r
   
 #### My description of role  
   
-This role, like most General Manager positions appears to have a wide range of responsibilites. By definition General Managers are usually accountable for a range of management functions that cover all aspects of an operation. I believe this role would be more suited to someone with project management experience as opposed to engineering as the organisation states that it delivers projects all the way from concept to completion.  
+This role, like most General Manager positions appears to have a wide range of responsibilities. By definition General Managers are usually accountable for a range of management functions that cover all aspects of an operation. I believe this role would be more suited to someone with project management experience as opposed to engineering as the organisation states that it delivers projects all the way from concept to completion.  
   
 #### Skills required  
   
-The key skill required from my intepretation would be a proven ability to manage projects right through the development pipeline. An engineering background might be useful, however I would assume that the subject matter experts from an engineering point of view are already in place in operational roles. The role would also require someone with solid financial experience most likely having already managed large budgets. Given the organisation appears to be in a market that is experiencing rapid technological innovation, the role would require someone who is able to strategically think in the long term to try and ensure the organisation makes the best possible choices.  
+The key skill required from my interpretation would be a proven ability to manage projects right through the development pipeline. An engineering background might be useful, however I would assume that the subject matter experts from an engineering point of view are already in place in operational roles. The role would also require someone with solid financial experience most likely having already managed large budgets. Given the organisation appears to be in a market that is experiencing rapid technological innovation, the role would require someone who is able to strategically think in the long term to try and ensure the organisation makes the best possible choices.  
   
 #### Skills I currently possess  
   
@@ -40,7 +40,7 @@ I have had some experience assisting with annual budgeting and I believe I do ha
   
 #### Plan to gain required skills  
   
-The first step will be to finish the current Bachelor degree I am studying. This will be complete in February 2020. The next step will be to try and land an operational managers position either within my current organisation or external. Once I am in a manager's position then I will commeence a MBA through online study. There are a range of online options these days and most can be completed part-time within two years. In order to give myself the best chance of securing a role like the one advertised my best ooption would be to complete a MBA that has a major focus on project management.   
+The first step will be to finish the current Bachelor degree I am studying. This will be complete in February 2020. The next step will be to try and land an operational managers position either within my current organisation or external. Once I am in a manager's position then I will commence a MBA through online study. There are a range of online options these days and most can be completed part-time within two years. In order to give myself the best chance of securing a role like the one advertised my best option would be to complete a MBA that has a major focus on project management.   
   
   
 ### Personal Profile
@@ -59,12 +59,22 @@ When forming a team I should make sure that I am involve members whose skills co
   
 ![image](https://user-images.githubusercontent.com/55190472/64921627-04914000-d7f8-11e9-965f-b59d26876f9a.png)  
   
-To me the results
+To me the results of this test are very much in line with what I expected. I know that I am not very good at retaining informing when reading, so generally I always try to experience things first hand. I have always thought that a strength of mine was the ability to do something once and then being confident of repeating in the future.  
   
+When operating in a team, I should make sure that I also identify how the rest of the team likes to operate and what styles they might find useful to learn new concepts. This will be especially important when I am disseminating information to my team, I really need to make sure I am able to adapt different presentation methods.  
+  
+When forming a team, I would try to ensure that some of the team members are able to retain information purely by reading the relevant documents. These traits would complement the team well as they might pick up on useful facts that may otherwise have been missed.
   
   
 #### Equilibria Report
   
+![image](https://user-images.githubusercontent.com/55190472/64921680-9436ee80-d7f8-11e9-930a-6f721a75c131.png)
+  
+To me this report further validates that my personality may have be changing to be more people focussed than I was previously. Interestingly I completed this report approximately five years ago for some training that my organisation was putting us through and at that time I my results showed that I was more focussed on results than people. It may be the case that spending such a large percentage of my career trying to lead teams through change has altered what I see as important.  
+  
+Similarly to the Myers-Briggs test, there results would also help me to ensure that whilst I continue to concentrate on getting results that are best for my team members, I also need to make sure that I am focussing on non-people orientated objectives.  
+  
+When forming a team I should make sure I get plenty of red and green personalities, as according to the E-Colors report, they focus on facts and getting results in a timely manner.
   
   
 ### Project Idea
