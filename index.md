@@ -24,7 +24,7 @@ During my studies in this unit I would expect to get a brief introduction to a r
   
 [General Manager - Renewable Energy](https://www.seek.com.au/job/39781196?searchrequesttoken=8af937e9-b5e6-4e38-bbce-a7d69ecba957&type=standard)  
   
-![Role Snapshot]("C:\Users\michael.reyland\Desktop\Ideal_Job.PNG")
+![Role Snapshot](C:\Users\michael.reyland\Desktop\Ideal_Job.PNG)
 
 
 You can use the [editor on GitHub](https://github.com/mreyland/Michael-Reyland/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
