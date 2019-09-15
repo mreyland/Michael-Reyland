@@ -113,5 +113,14 @@ In accordance with national regulations, any operators of UAV's for commercial p
   
 If implemented properly, this technology could improve the welfare of animals that come in contact with rolling stock through more efficient management of their conditions. It could also reduce the risk of team members getting injured whilst trying to locate injured animals in rough terrain and during the hours of darkness.  
   
-Additionally, if the technology is successful then there could also be related production benefits that would greatly outweigh the costs associated with setting it all up.
+Additionally, if the technology is successful then there could also be related production benefits that would greatly outweigh the costs associated with setting it all up.  
+  
+  
+### References  
+  
+Equilibria Service Limited 2019, Personality Diversity Indicator Test, Equilibria Services Limited, viewed 13 September 2019, <https://www.equilibria.com/PDI-home>
+Seek 2019, Seek – General Manager and CEO Roles, Seek, viewed 14 September 2019, <https://www.seek.com.au/jobs-in-ceo-general-management?salaryrange=150000-999999&salarytype=annual>
+The Myers-Briggs Foundation 2019, Online Personality Test, The Myers-Briggs Foundation, viewed 14 September 2019 <https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/>
+What is my learning style 2018, Learning Style Test, What is my learning style, viewed 15 September 2019, <http://www.whatismylearningstyle.com/learning-style-test-1.html>
+
 
