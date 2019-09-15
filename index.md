@@ -1,7 +1,7 @@
 ## Welcome to my profile
 
-Name: Michael Reyland
-Student ID: s3293934
+- Name: Michael Reyland
+- Student ID: s3293934
 
 
 
