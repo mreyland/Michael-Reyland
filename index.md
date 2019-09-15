@@ -118,9 +118,12 @@ Additionally, if the technology is successful then there could also be related p
   
 ### References  
   
-Equilibria Service Limited 2019, Personality Diversity Indicator Test, Equilibria Services Limited, viewed 13 September 2019, <https://www.equilibria.com/PDI-home>
-Seek 2019, Seek – General Manager and CEO Roles, Seek, viewed 14 September 2019, <https://www.seek.com.au/jobs-in-ceo-general-management?salaryrange=150000-999999&salarytype=annual>
-The Myers-Briggs Foundation 2019, Online Personality Test, The Myers-Briggs Foundation, viewed 14 September 2019 <https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/>
+Equilibria Service Limited 2019, Personality Diversity Indicator Test, Equilibria Services Limited, viewed 13 September 2019, <https://www.equilibria.com/PDI-home>  
+
+Seek 2019, Seek – General Manager and CEO Roles, Seek, viewed 14 September 2019, <https://www.seek.com.au/jobs-in-ceo-general-management?salaryrange=150000-999999&salarytype=annual>  
+
+The Myers-Briggs Foundation 2019, Online Personality Test, The Myers-Briggs Foundation, viewed 14 September 2019 <https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/>  
+
 What is my learning style 2018, Learning Style Test, What is my learning style, viewed 15 September 2019, <http://www.whatismylearningstyle.com/learning-style-test-1.html>
 
 
