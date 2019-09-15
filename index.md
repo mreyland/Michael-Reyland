@@ -24,17 +24,40 @@ During my studies in this unit I would expect to get a brief introduction to a r
   
 [General Manager - Renewable Energy](https://www.seek.com.au/job/39781196?searchrequesttoken=8af937e9-b5e6-4e38-bbce-a7d69ecba957&type=standard)  
   
-![GM Role Snapshot](https://user-images.githubusercontent.com/55190472/64921204-da894f00-d7f2-11e9-9bcc-eadb4d471e1e.png)
+![GM Role Snapshot](https://user-images.githubusercontent.com/55190472/64921204-da894f00-d7f2-11e9-9bcc-eadb4d471e1e.png)  
   
+#### My description of role  
+  
+This role, like most General Manager positions appears to have a wide range of responsibilites. By definition General Managers are usually accountable for a range of management functions that cover all aspects of an operation. I believe this role would be more suited to someone with project management experience as opposed to engineering as the organisation states that it delivers projects all the way from concept to completion.  
+  
+#### Skills required  
+  
+The key skill required from my intepretation would be a proven ability to manage projects right through the development pipeline. An engineering background might be useful, however I would assume that the subject matter experts from an engineering point of view are already in place in operational roles. The role would also require someone with solid financial experience most likely having already managed large budgets. Given the organisation appears to be in a market that is experiencing rapid technological innovation, the role would require someone who is able to strategically think in the long term to try and ensure the organisation makes the best possible choices.  
+  
+#### Skills I currently possess  
+  
+I have had some experience assisting with annual budgeting and I believe I do have a good understanding of project management. I have 4+ years of experiences as an operational superintendent across two very different fields. I have also managed large teams of up to 80 people at difficult times through periods of significant role changes, therefore believe that my HR skills are now one of my strengths.  
+  
+#### Plan to gain required skills  
+  
+The first step will be to finish the current Bachelor degree I am studying. This will be complete in February 2020. The next step will be to try and land an operational managers position either within my current organisation or external. Once I am in a manager's position then I will commeence a MBA through online study. There are a range of online options these days and most can be completed part-time within two years. In order to give myself the best chance of securing a role like the one advertised my best ooption would be to complete a MBA that has a major focus on project management.   
   
   
 ### Personal Profile
 
 #### Myers-Briggs Test
   
-![Myers-Briggs Results](https://user-images.githubusercontent.com/55190472/64921178-71094080-d7f2-11e9-80b6-408b04737266.png)
+![Myers-Briggs Results](https://user-images.githubusercontent.com/55190472/64921178-71094080-d7f2-11e9-80b6-408b04737266.png)  
   
-#### Learning Style Test
+To me the results of this test are interesting as I always believed that I was more introverted than extraverted. It is possible that given my last two leadership roles have been managing teams that are going through significant periods of change, my behaviour and potentially my personality has changed over time.  
+  
+Through analysing these results I may be more aware of my behaviour when engaging with a team and make sure that I am not too focussed on pleasing others and therefore losing sight of the key aims.
+
+When forming a team I should make sure that I am involve members whose skills compliment my own. This would mean selecting team members who are not as concerned with the feelings of others and are more easily able to focus on the facts. As long as the team engages in respectful discussion then by having a wide range of strengths it would give the best possible chance of success.  
+  
+#### Learning Style Test  
+  
+
   
   
   
