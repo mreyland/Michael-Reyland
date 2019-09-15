@@ -14,6 +14,15 @@ A couple of interesting facts:
   
 ### Interest in IT  
   
+My key interest in IT presently is further exploring ways that I can leverage IT to make my current role more effective through improving the performance of the Rail network. My interest in IT has not neccessarily started in the last 3-4 years, however it has certainly increased over this period as I have seen firsthand how beneficial timley analysis of all available data can help me improve performance.  
+Historically I have made educated guesses as to which areas to focus on to improve performance, whereas now most decisions are supported by analysis of a range of key inputs. The way our team now creates various dashboards through applications such as Spotfire puts all the data at our fingertips in an easy to interpret view.  
+My experience with IT involves the daily use of everyday tools such as emails and more recently the use of dashboards and company ERP's such as SAP.  
+I chose to study at RMIT as the field of study I am interested in is Logistics and SCM and RMIT at the time were the only provider that offered that specific major. I needed the flexibility of online study as I work full-time with most work weeks well over 60+ hours, therefore finding time can be difficult.  
+During my studies in this unit I would expect to get a brief introduction to a range of key IT fields that are shaping industry / personal fields. I also expect we would touch on some of the IT ideas that may influence / disrupt our way of life in the future.  
+
+## Ideal Job  
+  
+[https://www.seek.com.au/job/39781196?searchrequesttoken=8af937e9-b5e6-4e38-bbce-a7d69ecba957&type=standard]  
 
 
 You can use the [editor on GitHub](https://github.com/mreyland/Michael-Reyland/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
