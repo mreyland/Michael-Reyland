@@ -57,7 +57,9 @@ When forming a team I should make sure that I am involve members whose skills co
   
 #### Learning Style Test  
   
-
+![image](https://user-images.githubusercontent.com/55190472/64921627-04914000-d7f8-11e9-965f-b59d26876f9a.png)  
+  
+To me the results
   
   
   
